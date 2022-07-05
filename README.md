@@ -4,7 +4,7 @@ Hi 👋 My name is Abhinav Singhal
 Software Developer and Programmer
 ---------------------------------
 
-I started programming back in high school with Java. Since I've learned many problem-solving algorithms and other languages. I look forward to learning more in the future.
+I started programming back in high school with Java. Since then I've learned many problem-solving algorithms and other languages. I look forward to learning more in the future.
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [singhalabhinav0427@gmail.com](mailto:singhalabhinav0427@gmail.com)
