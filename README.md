@@ -9,7 +9,7 @@ I started programming back in high school with Java. Since then I've learned man
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [singhalabhinav0427@gmail.com](mailto:singhalabhinav0427@gmail.com)
 * 🚀  I'm currently working on [Personal Projects](http://github.com/Abhito)
-* 🧠  I'm learning HTML/CSS/Javascript
+* 🧠  I'm learning new languages and frameworks
 * 🤝  I'm open to collaborating on anything new and fun
 
 ### Skills
